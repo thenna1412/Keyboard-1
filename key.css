@@ -1,0 +1,446 @@
+
+*{
+
+font-weight: bold;
+font-size: 17px;
+}
+
+
+#container{
+
+background-color:#DADEDF;
+width: 100%;
+
+margin-top: 50px;
+display: flex;
+height: 52vh;
+}
+
+#first{
+
+
+flex-grow: 20;
+margin-top: 10px;
+width: 500px;
+
+}
+
+#second{
+
+
+	
+flex-grow: 3;
+margin-top: 10px;
+
+
+}
+
+#third{
+
+
+		flex-grow: 4;
+	margin-top: 10px;
+	margin-left:-40px;
+
+}
+
+#top{
+
+	display: flex;
+	padding: 2px;
+justify-content: space-around;
+	
+	}
+
+.fn{
+
+
+margin: 5px;
+	width: 60px;
+	height: 28px;
+	background-color: white;
+	margin-top: 10px;
+	border-radius: 5px;
+
+	
+
+	
+
+
+}
+
+.fn:hover{
+transform: scale(0.9);
+
+}
+
+
+.number{
+	
+width: 60px;
+height: 60px;
+background-color: white;
+border-radius: 10px;
+
+
+
+}
+
+.number:hover{
+transform: scale(0.9);
+
+}
+
+#numbers{
+
+	display: flex;
+
+	justify-content: space-around;
+	margin: 10px;
+}
+
+#backspace{
+
+	width: 120px;
+height: 60px;
+background-color: white;
+border-radius: 10ptton>
+<button class="arrow-up">Rx;
+
+}
+#backspace:hover{
+transform: scale(0.9);
+
+}
+
+#alp{
+
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.apl-1{
+
+width: 60px;
+height: 60px;
+background-color: white;
+border-radius: 10px;
+margin-top: 10px;
+
+
+
+
+}
+
+.apl-1:hover{
+transform: scale(0.9);
+
+}
+
+#tab{
+	width: 90px;
+height: 60px;
+background-color: white;
+border-radius: 10px;
+margin-top: 10px;
+
+}
+
+#tab:hover{
+transform: scale(0.9);
+
+}
+
+#line-4{
+
+display: flex;
+	justify-content: space-around;
+}
+
+
+.alp-2{
+
+width: 60px;
+height: 60px;
+background-color: white;
+border-radius: 10px;
+margin-top: 20px;
+
+
+}
+
+.alp-2:hover{
+transform: scale(0.9);
+
+}
+
+.caps-enter{
+width: 110px;
+height: 60px;
+background-color: white;
+border-radius: 10px;
+margin-top: 20px;
+
+
+}
+.caps-enter:hover{
+transform: scale(0.9);
+
+}
+#line-5{
+
+
+	display: flex;
+	justify-content: space-around;
+}
+
+.alp-3{
+
+width: 60px;
+height: 60px;
+background-color: white;
+border-radius: 10px;
+margin-top: 20px;
+
+}
+.alp-3:hover{
+transform: scale(0.9);
+
+}
+
+.shift{
+
+width: 130px;
+height: 60px;
+background-color: white;
+border-radius: 10px;
+margin-top: 20px;
+
+
+}
+.shift:hover{
+transform: scale(0.9);
+
+}
+
+#line-6{
+
+display: flex;
+justify-content: space-around;
+
+}
+
+.ctrl{
+
+
+width: 70px;
+height: 60px;
+background-color: white;
+border-radius: 10px;
+margin-top: 20px;
+
+
+}
+.ctrl:hover{
+transform: scale(0.9);
+
+}
+
+.alt{
+
+width: 60px;
+height: 60px;
+background-color: white;
+border-radius: 10px;
+margin-top: 20px;
+
+}
+.alt:hover{
+transform: scale(0.9);
+
+}
+#space{
+width: 520px;
+height: 60px;
+background-color: white;
+border-radius: 10px;
+margin-top: 20px;
+
+}
+#space:hover{
+transform: scale(0.9);
+
+}
+#second-top{
+
+	margin: 0;
+	display: flex;
+	justify-content: center;
+
+}
+
+.func{
+
+width: 60px;
+height: 28px;
+background-color: white;
+border-radius: 5px;
+
+margin: 10px;
+}
+.func:hover{
+transform: scale(0.9);
+
+}
+.arrow-1{
+
+width: 60px;
+height: 60px;
+background-color: white;
+border-radius: 5px;
+
+margin: 10px;
+
+
+}
+
+.arrow-1:hover{
+transform: scale(0.9);
+
+}
+#Sline-2{
+
+	display: flex;
+	justify-content: center;
+}
+
+
+.arrow-2{
+
+width: 60px;
+height: 60px;
+background-color: white;
+border-radius: 5px;
+
+margin: 10px;
+
+
+}
+
+.arrow-2:hover{
+transform: scale(0.9);
+
+}
+
+
+
+
+#Sline-3{
+
+	display: flex;
+	justify-content: center;
+}
+
+
+#single-box{
+
+display: flex;
+	justify-content: center;
+	margin-top: 80px;
+}
+
+.arrow-up{
+
+width: 60px;
+height: 60px;
+background-color: white;
+border-radius: 5px;
+
+margin: 10px;
+
+
+}
+
+.arrow-up:hover{
+transform: scale(0.9);
+
+}
+
+
+#three-box{
+
+display: flex;
+	justify-content: center;
+
+}
+
+
+#Tline-1{
+
+	display: flex;
+	justify-content: center;
+
+}
+
+#Tline-2{
+
+	display: flex;
+	justify-content: center;
+}
+
+#Tline-3{
+
+	display: flex;
+	justify-content: center;
+}
+
+#Tline-4{
+
+	display: flex;
+	justify-content: center;
+}
+
+.plus-button{
+
+
+
+width: 60px;
+height: 150px;
+background-color: white;
+border-radius: 5px;
+
+margin: 10px;
+
+}
+
+.plus-button:hover{
+transform: scale(0.9);
+
+}
+
+.zero-button{
+
+
+
+width: 140px;
+height: 60px;
+background-color: white;
+border-radius: 5px;
+
+margin: 10px;
+
+
+}
+
+#Tline-5{
+	margin-top: -85px;
+  margin-left: -80px;
+	display: flex;
+	justify-content: center;
+}
+
+.zero-button:hover{
+transform: scale(0.9);
+
+}
